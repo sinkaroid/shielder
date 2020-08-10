@@ -1,0 +1,18 @@
+
+BackdoorFinder Results         
+Total Sites    =  2
+Total Payloads =  12
+	
+---------------------------------------------------------------------
+[Connecting] : http://lancaster-catering.co.uk/...
+[Connected]  : http://lancaster-catering.co.uk/ is connected
+[Checking 1/2] : Checking http://lancaster-catering.co.uk/ 
+
+[OK] : http://lancaster-catering.co.uk/xl.php
+[OK] : http://lancaster-catering.co.uk/docindex.php
+
+---------------------------------------------------------------------
+[Connecting] : http://fsktnevents.co.uk/...
+[Connected]  : http://fsktnevents.co.uk/ is connected
+[Checking 2/2] : Checking http://fsktnevents.co.uk/ 
+
