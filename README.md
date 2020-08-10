@@ -1,7 +1,7 @@
 <div align="center">
    <img width="250" src="https://i.imgur.com/3yzjjhx.png" alt="logo"></br><h2>Mashupy</h2>
 
-[![](https://img.shields.io/cpan/v/HTTP-Message)](https://metacpan.org/pod/Term::ANSIColor) [![CodeFactor](https://www.codefactor.io/repository/github/sinkaroid/Mashupy/badge)](https://www.codefactor.io/repository/github/sinkaroid/Mashupy) [![Python 3](https://pyup.io/repos/github/sinkaroid/Mashupy/python-3-shield.svg)](https://pyup.io/repos/github/sinkaroid/Mashupy/) [![Build Status](https://travis-ci.com/sinkaroid/Mashupy.svg?branch=master)](https://travis-ci.com/sinkaroid/Mashupy)  
+[![](https://img.shields.io/cpan/v/HTTP-Message)](https://metacpan.org/pod/Term::ANSIColor) [![CodeFactor](https://www.codefactor.io/repository/github/sinkaroid/Mashupy/badge)](https://www.codefactor.io/repository/github/sinkaroid/Mashupy) [![Build Status](https://travis-ci.com/sinkaroid/Mashupy.svg?branch=master)](https://travis-ci.com/sinkaroid/Mashupy) [![Python 3](https://pyup.io/repos/github/sinkaroid/Mashupy/python-3-shield.svg)](https://pyup.io/repos/github/sinkaroid/Mashupy/)  
 
 ----
 </div>
