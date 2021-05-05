@@ -69,11 +69,6 @@ This tool has been tested successfully in several environments.
 | :---: | :---: | :---: |
 
 
-## Notable
-Since this tool embraces some ideas from another person, and I'm not an asshole, I'll many thanks:
-
--   [@justalinko/kagari](https://github.com/justalinko) as "milestone" and for making this tools "true"
-
 ## EOF
 
 - feel free to make PR, maybe this tools just using `sucks` pattern and `weird` implementation, if u have more good ideas than this one, just PR.

@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "feat: added more wordlist"
+git commit -m "chore: Docs readme"
 git push -f origin master
