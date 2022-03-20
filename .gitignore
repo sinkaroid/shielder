@@ -1,0 +1,15 @@
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Testing
+goblog/*
+.idea/* 
+test.js
+run.sh
+rem
+
+# Hard remake
+README.md

@@ -1,0 +1,44 @@
+#!/bin/bash
+#sin
+
+RED=$(tput setaf 1) 
+GREEN=$(tput setaf 2) 
+CYAN=$(tput setaf 6) 
+WHITE=$(tput setaf 7) 
+begin=$(date +"%s")
+chmod -R 777 ./
+
+echo -e "${RED}
+
+                  _           
+  /\/\   __ _ ___| |__  _   _ 
+ /    \ / _  / __| '_ \| | | |
+/ /\/\ \ (_| \__ \ | | | |_| |
+\/    \/\__,_|___/_| |_|\__,_|
+                      | Bulk http request according wordlist        
+"
+echo -e "${GREEN}"
+
+PS3='by number or "5" to exit: '
+options=("single-request3" "perl-based" "mass-request3" "mass-request2" "Quit")
+select opt in "${options[@]}"
+do
+    case $opt in
+        "single-request3")
+            cd bin;python mashu.py
+            ;;
+        "perl-based")
+            cd bin;perl mashu.pl
+            ;;
+        "mass-request3")
+            cd bin;python mass.py
+            ;;
+        "mass-request2")
+            cd bin;python massq.py
+            ;;
+        "Quit")
+            break
+            ;;
+        *) echo "invalid option $REPLY";;
+    esac
+done
